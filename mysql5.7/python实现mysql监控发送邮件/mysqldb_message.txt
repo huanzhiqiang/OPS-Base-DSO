@@ -1,0 +1,1 @@
+host:172.20.32.251 user:root passwd:abcd123 port:3306
